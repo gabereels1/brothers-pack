@@ -1,0 +1,198 @@
+{
+  "schema": 1,
+  "sequence": 8,
+  "published": "2026-10-08T16:07:26Z",
+  "note": "pack 0.3.2",
+  "launcher": {
+    "version": "1.0.0",
+    "url": "https://github.com/gabereels1/brothers-pack/releases/download/launcher-1.0.0/BrothersPack.exe",
+    "sha256": "c43a8916ceb779ff147b405a1b3b3b7679b5604b1ab9d4dae3cca2cf957ab50a",
+    "size": 7956992
+  },
+  "prism": {
+    "version": "11.1.1",
+    "url": "https://github.com/PrismLauncher/PrismLauncher/releases/download/11.1.1/PrismLauncher-Windows-MinGW-w64-Portable-11.1.1.zip",
+    "sha256": "05841d0b3bfc0a8212658457cc6035e1c29cd7ffae919464e874e384cbe8d062",
+    "size": 43687692,
+    "exeSha256": "2f21c41241d551eae016a8f4174027e6d8d1ebe02b43af0e91512458c9b0f19d"
+  },
+  "instance": {
+    "id": "BrothersPack",
+    "name": "Brothers Pack",
+    "minecraft": "26.3",
+    "fabricLoader": "0.19.5",
+    "lwjgl": "3.4.3",
+    "minMemMB": 512,
+    "maxMemMB": 6144,
+    "packUrl": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/pack.toml",
+    "files": [
+      {
+        "path": "minecraft/packwiz-installer-bootstrap.jar",
+        "url": "https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar",
+        "sha256": "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c",
+        "size": 98989
+      },
+      {
+        "path": "minecraft/packwiz-installer.jar",
+        "url": "https://github.com/packwiz/packwiz-installer/releases/download/v0.5.14/packwiz-installer.jar",
+        "sha256": "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598",
+        "size": 4378828
+      }
+    ],
+    "pack": [
+      {
+        "path": "config/DistantHorizons.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/config/DistantHorizons.toml",
+        "sha256": "77d4f45670b41fa009eeb534f9f937ec8fb7f9c9903440cd1401f063e89ec345",
+        "size": 3208
+      },
+      {
+        "path": "config/worldedit/worldedit.properties",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/config/worldedit/worldedit.properties",
+        "sha256": "7e0b8403d23d8a659f1b0acbd33c7ff558394dc8af7531aef1d54bf73947282d",
+        "size": 596
+      },
+      {
+        "path": "index.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/index.toml",
+        "sha256": "998f72979386f16fcb51483e13cbe7a8b57f0030fc66af5013566c76b4f2205d",
+        "size": 2925
+      },
+      {
+        "path": "mods/cloth-config.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/cloth-config.pw.toml",
+        "sha256": "42474de57f315a572181b93729733545ac46919d6832121a75c52b4f9e40fb98",
+        "size": 428
+      },
+      {
+        "path": "mods/couchpotato-0.1.0.jar",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/couchpotato-0.1.0.jar",
+        "sha256": "8443cbdb58b293efb2bbf83a7607a7c24f91194b303febd2c2a3a483f5317fc7",
+        "size": 56301
+      },
+      {
+        "path": "mods/distanthorizons.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/distanthorizons.pw.toml",
+        "sha256": "480b8bddc3670454a76c48c82967c72b80110066ceb16e7b1f9bd2cfe3bc8f0c",
+        "size": 465
+      },
+      {
+        "path": "mods/e4mc.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/e4mc.pw.toml",
+        "sha256": "7a9916d02fd1da89ea50b6d7f45c3d1985eb4d273ebf01e44da6327b9d35cf4b",
+        "size": 408
+      },
+      {
+        "path": "mods/entityculling.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/entityculling.pw.toml",
+        "sha256": "4a2061e66de340e42c321452326670ff7164b34d76656ffe686ef14c026ccf15",
+        "size": 438
+      },
+      {
+        "path": "mods/fabric-api.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/fabric-api.pw.toml",
+        "sha256": "6b342a83e9736f0832e750c8d631273cf600305d73b32c8bd6a977811f6972ee",
+        "size": 412
+      },
+      {
+        "path": "mods/ferrite-core.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/ferrite-core.pw.toml",
+        "sha256": "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871",
+        "size": 413
+      },
+      {
+        "path": "mods/hashbrowns-0.1.0.jar",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/hashbrowns-0.1.0.jar",
+        "sha256": "40c8b7db8cc1a92afe9367fa1800f91f7ab37c27d942097c9a8b70ab97f8ce3e",
+        "size": 54375
+      },
+      {
+        "path": "mods/immediatelyfast.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/immediatelyfast.pw.toml",
+        "sha256": "a7f6a1543f41198911a8b1e5e059fa0c8003365ebd6c2314e2dfa0806aff300a",
+        "size": 441
+      },
+      {
+        "path": "mods/lithium.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/lithium.pw.toml",
+        "sha256": "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357",
+        "size": 419
+      },
+      {
+        "path": "mods/modernfix-mvus.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/modernfix-mvus.pw.toml",
+        "sha256": "3b3b9e886735bd8d8809954b7da8d1cca5b8186086379f129f0e4183470a7b2b",
+        "size": 418
+      },
+      {
+        "path": "mods/modmenu.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/modmenu.pw.toml",
+        "sha256": "cd05db76d670773ace1184abdd46126e7b7c75c2b70da82e1764cff9544c4269",
+        "size": 392
+      },
+      {
+        "path": "mods/moreculling.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/moreculling.pw.toml",
+        "sha256": "6859959461c25d035a508bd97e4ea9ddcc8241e37f1ea92e3b4d920f601913a4",
+        "size": 426
+      },
+      {
+        "path": "mods/placeholder-api.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/placeholder-api.pw.toml",
+        "sha256": "aa73c5c61a2e26d7c8aeafca23504f4e34e9d34238fffe4613b6f314dfd35776",
+        "size": 430
+      },
+      {
+        "path": "mods/potatobench-1.3.0.jar",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/potatobench-1.3.0.jar",
+        "sha256": "931065a3acc978f45d1c36718cf7bd15ecb1b9c97ff49bd28baa57337f8b9363",
+        "size": 130423
+      },
+      {
+        "path": "mods/sodium.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/sodium.pw.toml",
+        "sha256": "bb4973c272697eed8d5d556420659b04c4f9c146c16b19c6162269e45c78f652",
+        "size": 427
+      },
+      {
+        "path": "mods/spark.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/spark.pw.toml",
+        "sha256": "9b0969e4afbc18124775c008361dc1cfb9a17e49098d93d067b6342a4a54427c",
+        "size": 401
+      },
+      {
+        "path": "mods/tatertots-0.1.0.jar",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/tatertots-0.1.0.jar",
+        "sha256": "fd838be335f1a7315268f7c6f9f779fc453fca39f268c3900fb865941273adbb",
+        "size": 29693
+      },
+      {
+        "path": "mods/welcomemat-0.1.1.jar",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/welcomemat-0.1.1.jar",
+        "sha256": "150381474b692a4c46823ca30b0c3f81919410d83f2d99b38ac2a16d499f39aa",
+        "size": 60413
+      },
+      {
+        "path": "mods/worldedit.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/worldedit.pw.toml",
+        "sha256": "4c198a2ca7208a54771e3f3864da69be5b49ae6115e0d9cd2d227501897f50d4",
+        "size": 428
+      },
+      {
+        "path": "pack.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/pack.toml",
+        "sha256": "d4ca173c10c904878cd837d5dcadd41c716babaa5a2e819427bae0e6fe733183",
+        "size": 262
+      }
+    ]
+  },
+  "online": {
+    "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/online.json",
+    "maxAgeMinutes": 720,
+    "signed": true,
+    "keys": [
+      "RWQZyYlFAtA9LWcfUlUvEF3jfYEGQEcldvtxZhNkbgaFmQPyg7hLvLQt",
+      "RWRuLONKU/jFNuDSjAwQx2fRiI8Hvgz7YgT3TyiuLFTVnVIB75AgKbry"
+    ]
+  }
+}

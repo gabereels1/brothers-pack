@@ -1,0 +1,13 @@
+name = "Brothers Pack"
+author = "Gabe"
+version = "0.3.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "998f72979386f16fcb51483e13cbe7a8b57f0030fc66af5013566c76b4f2205d"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"

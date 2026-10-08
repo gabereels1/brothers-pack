@@ -1,0 +1,106 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "77d4f45670b41fa009eeb534f9f937ec8fb7f9c9903440cd1401f063e89ec345"
+preserve = true
+
+[[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "7e0b8403d23d8a659f1b0acbd33c7ff558394dc8af7531aef1d54bf73947282d"
+preserve = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "42474de57f315a572181b93729733545ac46919d6832121a75c52b4f9e40fb98"
+metafile = true
+
+[[files]]
+file = "mods/couchpotato-0.1.0.jar"
+hash = "8443cbdb58b293efb2bbf83a7607a7c24f91194b303febd2c2a3a483f5317fc7"
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "480b8bddc3670454a76c48c82967c72b80110066ceb16e7b1f9bd2cfe3bc8f0c"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "7a9916d02fd1da89ea50b6d7f45c3d1985eb4d273ebf01e44da6327b9d35cf4b"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4a2061e66de340e42c321452326670ff7164b34d76656ffe686ef14c026ccf15"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6b342a83e9736f0832e750c8d631273cf600305d73b32c8bd6a977811f6972ee"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/hashbrowns-0.1.0.jar"
+hash = "40c8b7db8cc1a92afe9367fa1800f91f7ab37c27d942097c9a8b70ab97f8ce3e"
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "a7f6a1543f41198911a8b1e5e059fa0c8003365ebd6c2314e2dfa0806aff300a"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "3b3b9e886735bd8d8809954b7da8d1cca5b8186086379f129f0e4183470a7b2b"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "cd05db76d670773ace1184abdd46126e7b7c75c2b70da82e1764cff9544c4269"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "6859959461c25d035a508bd97e4ea9ddcc8241e37f1ea92e3b4d920f601913a4"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "aa73c5c61a2e26d7c8aeafca23504f4e34e9d34238fffe4613b6f314dfd35776"
+metafile = true
+
+[[files]]
+file = "mods/potatobench-1.3.0.jar"
+hash = "931065a3acc978f45d1c36718cf7bd15ecb1b9c97ff49bd28baa57337f8b9363"
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "bb4973c272697eed8d5d556420659b04c4f9c146c16b19c6162269e45c78f652"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9b0969e4afbc18124775c008361dc1cfb9a17e49098d93d067b6342a4a54427c"
+metafile = true
+
+[[files]]
+file = "mods/tatertots-0.1.0.jar"
+hash = "fd838be335f1a7315268f7c6f9f779fc453fca39f268c3900fb865941273adbb"
+
+[[files]]
+file = "mods/welcomemat-0.1.1.jar"
+hash = "150381474b692a4c46823ca30b0c3f81919410d83f2d99b38ac2a16d499f39aa"
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "4c198a2ca7208a54771e3f3864da69be5b49ae6115e0d9cd2d227501897f50d4"
+metafile = true

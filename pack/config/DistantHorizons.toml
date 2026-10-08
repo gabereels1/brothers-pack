@@ -1,0 +1,62 @@
+# Brothers Pack starting settings for Distant Horizons 3.3.4 (config _version 5). packwiz ships this file once
+# (preserve = true): DH fills in every setting not listed here with its own default the first time it starts, and
+# after that the file is yours. Changes made in DH's settings screen are kept by later pack updates.
+# Tuned for the weaker machines (the brother's PC, the 4-core potato). Gabe's Mac host should raise the CPU load
+# (DH settings -> CPU Load: "3. Balanced" while playing, "5. I Paid For The Whole CPU" while pre-generating) and may
+# raise the quality.
+# Numbers behind these choices: research/dh/RESULTS.md in the mc-mods repo.
+_version = 5
+
+[server]
+	# Fixed name for the LOD cache folder a joining player keeps (e4mc addresses change every session).
+	serverKey = "brotherspack"
+	# LOD upload per player, KB/s (DH default 500). Both sides must allow it: the lower of the two wins.
+	playerBandwidthLimit = 2000
+	# Back off automatically when the connection or the client can't keep up.
+	enableAdaptiveTransferSpeed = true
+	# LOD generation requests per second a joining player may send (DH default 20, max 100). Both sides must allow
+	# it: the lower of the two wins, so every machine ships 50. At 20 the brother's LODs arrived at a quarter of the
+	# bandwidth limit (research/dh/PROFILE.md section 5). Costs host CPU only while he explores new land.
+	generationRequestRateLimit = 50
+
+[common]
+
+	[common.multiThreading]
+		# DH worker threads. 2 = DH's "Low impact" on a 4-core/8-thread CPU. The host generates LODs for both
+		# players, so the Mac should raise this (Balanced = half its threads).
+		numberOfThreads = 2
+
+	[common.worldGenerator]
+		# Real-chunk detail pass (trees, features) only out to 50% of the LOD distance; past that, DH's fast rough
+		# surface. Cuts the chunks DH generates for a full 256-chunk view by about 4x.
+		surfaceRegenMaxDistancePercent = "0.5"
+		# Host only (only the host generates; joining players get LODs from it): real chunks through the game's own
+		# server, saved to the world, with structures ("Full - Save Chunks"). DH's default FEATURES skips structures
+		# and saves nothing. Measured on the Mac: no extra cost while flying.
+		chunkGeneratorMode = "INTERNAL_SERVER"
+
+[client]
+
+	[client.advanced]
+
+		[client.advanced.autoUpdater]
+			# The pack decides which DH version everyone runs; DH's own updater would break the version match.
+			enableAutoUpdater = false
+
+		[client.advanced.graphics]
+			enableSsao = false
+
+			[client.advanced.graphics.genericRendering]
+				# DH's own far clouds, on (DH default; Gabe's call, Oct 7). They are the only clouds: DH turns
+				# vanilla clouds off when it starts rendering (overrideVanillaGraphicsSettings, DH default on).
+				# Cost on the Mac at 80 blocks/s: ~6% render CPU / FPS in the pack 0.3.0 A/B (15% in the first).
+				# To trade them for speed on a weak machine: false here, or DH settings -> Enable Cloud Rendering.
+				enableCloudRendering = true
+
+			[client.advanced.graphics.quality]
+				# 256 chunks = 4096 blocks of LOD terrain.
+				lodChunkRenderDistanceRadius = 256
+				horizontalQuality = "LOW"
+				verticalQuality = "LOW"
+				lodBiomeBlending = 1
+				vanillaFadeMode = "SINGLE_PASS"
