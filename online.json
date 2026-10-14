@@ -1,6 +1,9 @@
 {
   "schema": 1,
-  "online": false,
-  "address": "",
-  "updated": "2026-10-07T22:04:49Z"
+  "online": true,
+  "address": "resemble-preset.na.e4mc.link",
+  "updated": "2026-10-14T02:28:24Z",
+  "host": "mac",
+  "world": "Test World 1",
+  "instance": "RLCraftPlus"
 }
