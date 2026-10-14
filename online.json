@@ -1,9 +1,7 @@
 {
   "schema": 1,
-  "online": true,
-  "address": "tutu-unclamped.na.e4mc.link",
-  "updated": "2026-10-14T03:11:11Z",
-  "host": "mac",
-  "world": "Test World 2!",
-  "instance": "RLCraftPlus"
+  "online": false,
+  "address": "",
+  "updated": "2026-10-14T03:56:31Z",
+  "host": "mac"
 }
