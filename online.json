@@ -1,9 +1,7 @@
 {
   "schema": 1,
-  "online": true,
-  "address": "handrail-sprig.na.e4mc.link",
-  "updated": "2026-10-14T02:54:36Z",
-  "host": "mac",
-  "world": "Test World 2!",
-  "instance": "RLCraftPlus"
+  "online": false,
+  "address": "",
+  "updated": "2026-10-14T03:04:46Z",
+  "host": "mac"
 }
