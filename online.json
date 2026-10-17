@@ -1,9 +1,7 @@
 {
   "schema": 1,
-  "online": true,
-  "address": "resume-robotics.na.e4mc.link",
-  "updated": "2026-10-17T03:02:13Z",
-  "host": "mac",
-  "world": "Superflat Test",
-  "instance": "RLCraftPlus"
+  "online": false,
+  "address": "",
+  "updated": "2026-10-17T03:10:33Z",
+  "host": "mac"
 }
