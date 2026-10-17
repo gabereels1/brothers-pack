@@ -1,7 +1,9 @@
 {
   "schema": 1,
-  "online": false,
-  "address": "",
-  "updated": "2026-10-17T02:07:18Z",
-  "host": "mac"
+  "online": true,
+  "address": "marlin-luridness.na.e4mc.link",
+  "updated": "2026-10-17T02:07:28Z",
+  "host": "mac",
+  "world": "Adrian and Gabe",
+  "instance": "RLCraftPlus"
 }
