@@ -1,7 +1,9 @@
 {
   "schema": 1,
-  "online": false,
-  "address": "",
-  "updated": "2026-10-14T03:56:31Z",
-  "host": "mac"
+  "online": true,
+  "address": "driver-silt.na.e4mc.link",
+  "updated": "2026-10-17T01:08:22Z",
+  "host": "mac",
+  "world": "Adrian and Gabe",
+  "instance": "RLCraftPlus"
 }
