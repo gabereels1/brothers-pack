@@ -1,7 +1,9 @@
 {
   "schema": 1,
-  "online": false,
-  "address": "",
-  "updated": "2026-10-22T02:25:35Z",
-  "host": "mac"
+  "online": true,
+  "address": "slept-say.na.e4mc.link",
+  "updated": "2026-10-22T02:26:28Z",
+  "host": "mac",
+  "world": "Gabe & Sam 2",
+  "instance": "RLCraftPlus"
 }
