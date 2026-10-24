@@ -1,7 +1,9 @@
 {
   "schema": 1,
-  "online": false,
-  "address": "",
-  "updated": "2026-10-22T03:35:15Z",
-  "host": "mac"
+  "online": true,
+  "address": "frivolous-stimulate.na.e4mc.link",
+  "updated": "2026-10-24T01:18:22Z",
+  "host": "mac",
+  "world": "With Sam 2",
+  "instance": "RLCraftPlus"
 }
