@@ -1,9 +1,7 @@
 {
   "schema": 1,
-  "online": true,
-  "address": "mocker-bounding.na.e4mc.link",
-  "updated": "2026-10-24T03:20:28Z",
-  "host": "mac",
-  "world": "With Sam 3",
-  "instance": "RLCraftPlus"
+  "online": false,
+  "address": "",
+  "updated": "2026-10-24T03:42:46Z",
+  "host": "mac"
 }
