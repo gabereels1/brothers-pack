@@ -1,7 +1,9 @@
 {
   "schema": 1,
-  "online": false,
-  "address": "",
-  "updated": "2026-10-24T03:11:25Z",
-  "host": "mac"
+  "online": true,
+  "address": "retrial-expiring.na.e4mc.link",
+  "updated": "2026-10-24T03:13:23Z",
+  "host": "mac",
+  "world": "With Sam 3",
+  "instance": "RLCraftPlus"
 }
