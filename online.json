@@ -1,9 +1,7 @@
 {
   "schema": 1,
-  "online": true,
-  "address": "gush-skeptic.na.e4mc.link",
-  "updated": "2026-10-24T01:33:41Z",
-  "host": "mac",
-  "world": "With Sam 3",
-  "instance": "RLCraftPlus"
+  "online": false,
+  "address": "",
+  "updated": "2026-10-24T03:09:30Z",
+  "host": "mac"
 }
