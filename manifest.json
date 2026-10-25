@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "sequence": 10,
-  "published": "2026-10-14T02:15:51Z",
+  "sequence": 11,
+  "published": "2026-10-25T01:23:57Z",
   "note": "pack 0.3.2",
   "launcher": {
-    "version": "1.1.0",
-    "url": "https://github.com/gabereels1/brothers-pack/releases/download/launcher-1.1.0/BrothersPack.exe",
-    "sha256": "6b82af6ef3e588b7f51363e8224e366a77322f3b0f08fdc2030d3ddac37a4ff9",
-    "size": 8228352
+    "version": "1.1.1",
+    "url": "https://github.com/gabereels1/brothers-pack/releases/download/launcher-1.1.1/BrothersPack.exe",
+    "sha256": "7aa6de762cfd666a1c1c02075d2de240a61e2aa2319f5e3326d64b08fcede807",
+    "size": 8305664
   },
   "prism": {
     "version": "11.1.1",
@@ -194,5 +194,13 @@
       "RWQZyYlFAtA9LWcfUlUvEF3jfYEGQEcldvtxZhNkbgaFmQPyg7hLvLQt",
       "RWRuLONKU/jFNuDSjAwQx2fRiI8Hvgz7YgT3TyiuLFTVnVIB75AgKbry"
     ]
+  },
+  "java": {
+    "version": "25.0.4.1+1",
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_x64_windows_hotspot_25.0.4.1_1.zip",
+    "sha256": "4c95451cea98556def2c54f7782933f52a26d4a36bd85e1d59f0364464828b07",
+    "size": 58475080,
+    "exe": "jdk-25.0.4.1+1-jre/bin/javaw.exe",
+    "exeSha256": "bfd1f64ca1c9229797a7ddacd3240a42a5808778d4f1ed35311766af1e6e7bc0"
   }
 }
