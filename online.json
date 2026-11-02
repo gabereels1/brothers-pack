@@ -1,7 +1,8 @@
 {
   "schema": 1,
-  "online": false,
-  "address": "",
-  "updated": "2026-10-27T03:45:47Z",
-  "host": "mac"
+  "online": true,
+  "address": "detract-buffed.na.e4mc.link",
+  "updated": "2026-11-02T03:08:51Z",
+  "host": "mac",
+  "world": "Gabe & Julia"
 }
