@@ -1,0 +1,9 @@
+version:5023
+resourcePacks:["file/BrothersPackQuiet","file/FreshAnimations_v1.10.5.zip","file/FreshAnimations-PlayerExtension_v1.1.zip"]
+key_justzoom.keybinds.keybind.zoom:key.keyboard.v
+key_justzoom.keybinds.keybind.open_options:key.keyboard.unknown
+key_gui.xaero_open_map:key.keyboard.j
+key_gui.xaero_enlarge_map:key.keyboard.unknown
+key_gui.xaero_minimap_settings:key.keyboard.unknown
+key_gui.xaero_instant_waypoint:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown

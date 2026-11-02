@@ -1,0 +1,13 @@
+name = "Fancy World Animations [FWA]"
+filename = "fwa+26.3-1.3.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAzUFvS6/versions/oFnm3FIX/fwa%2B26.3-1.3.4.jar"
+hash-format = "sha512"
+hash = "4270dc6e49584955ed2dd3c0fd975fa2eb89fadbef8fa439226c59bcd7bcf61d7f46b9502886f39cd6fd8507c37566fd28bbe2dfd1a0f396a5dfb28ca78fa48d"
+
+[update]
+[update.modrinth]
+mod-id = "IAzUFvS6"
+version = "oFnm3FIX"

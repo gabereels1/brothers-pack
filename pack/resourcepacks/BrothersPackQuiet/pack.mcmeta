@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Brothers Pack: quiets mod notices",
+    "min_format": 97,
+    "max_format": 999
+  }
+}

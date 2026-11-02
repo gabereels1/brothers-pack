@@ -1,12 +1,12 @@
 name = "Brothers Pack"
 author = "Gabe"
-version = "0.3.3"
+version = "0.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4ce99420122b863aedb8bfe75a5872c397827ec9afc4d76856dce64e1556abe0"
+hash = "3cc106bc4e2a43b4e015991de0db94d8984883229bd53b34452f85932b8fc3e3"
 
 [versions]
 fabric = "0.19.5"

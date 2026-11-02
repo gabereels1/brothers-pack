@@ -1,0 +1,93 @@
+{
+  "packs": [
+    {
+      "id": "file/FreshAnimations-PlayerExtension_v1.1.zip",
+      "why": "Pack 0.4.0: players move in Fresh Animations' style (Entity Model Features). Turned on once; switched off under Options, Resource Packs, it stays off."
+    },
+    {
+      "id": "file/FreshAnimations_v1.10.5.zip",
+      "below": [
+        "file/FreshAnimations-PlayerExtension_v1.1.zip"
+      ],
+      "why": "Pack 0.4.0: animated mobs (Entity Model Features and Entity Texture Features). Below its Player Extension, which is made to sit on top of it."
+    },
+    {
+      "id": "file/BrothersPackQuiet",
+      "why": "Pack 0.4.0: blanks the anti-resale notice Yuushya Townscape sends every player on every join (its declaration.* lines). Our own pack, above the mods' resources."
+    }
+  ],
+  "keys": [
+    {
+      "name": "justzoom.keybinds.keybind.zoom",
+      "mod": "justzoom",
+      "from": [
+        "key.keyboard.z"
+      ],
+      "to": "key.keyboard.v",
+      "why": "Z is also Effortless Building's undo (Ctrl+Z) and Xaero's minimap zoom. Not C (RLCraft Plus's pick): in creative, C held with 1-9 saves the hotbar. V has only the F3+V debug combination."
+    },
+    {
+      "name": "justzoom.keybinds.keybind.open_options",
+      "mod": "justzoom",
+      "from": [
+        "key.keyboard.b"
+      ],
+      "to": "key.keyboard.unknown",
+      "why": "B is Xaero's new waypoint; Just Zoom's settings stay in Mod Menu (RLCraft Plus unbinds it too)."
+    },
+    {
+      "name": "gui.xaero_open_map",
+      "mod": "xaeroworldmap",
+      "from": [
+        "key.keyboard.m"
+      ],
+      "to": "key.keyboard.j",
+      "why": "M is Litematica's main menu. J was free."
+    },
+    {
+      "name": "gui.xaero_enlarge_map",
+      "mod": "xaerominimap",
+      "from": [
+        "key.keyboard.z"
+      ],
+      "to": "key.keyboard.unknown",
+      "why": "Z is Effortless Building's undo (Ctrl+Z)."
+    },
+    {
+      "name": "gui.xaero_minimap_settings",
+      "mod": "xaerominimap",
+      "from": [
+        "key.keyboard.y"
+      ],
+      "to": "key.keyboard.unknown",
+      "why": "Y is Effortless Building's redo (Ctrl+Y); the minimap settings stay in Mod Menu."
+    },
+    {
+      "name": "gui.xaero_instant_waypoint",
+      "mod": "xaerominimap",
+      "from": [
+        "key.keyboard.keypad.add"
+      ],
+      "to": "key.keyboard.unknown",
+      "why": "Keypad + opens Effortless Building's modifiers screen; B still makes a waypoint."
+    },
+    {
+      "name": "iris.keybind.shaderPackSelection",
+      "mod": "iris",
+      "from": [
+        "key.keyboard.i"
+      ],
+      "to": "key.keyboard.unknown",
+      "why": "I is Litematica's info overlay; shader packs stay in Video Settings, and K still turns shaders on and off."
+    },
+    {
+      "name": "axiom.keybind.context",
+      "mod": "axiom",
+      "from": [
+        "key.keyboard.left.alt"
+      ],
+      "to": "key.keyboard.grave.accent",
+      "why": "Left Alt is Effortless Building's radial menu (in the pack since 0.3.3). The ` key was free."
+    }
+  ]
+}
