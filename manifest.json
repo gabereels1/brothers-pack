@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "sequence": 12,
-  "published": "2026-10-26T00:55:36Z",
-  "note": "pack 0.3.2",
+  "sequence": 14,
+  "published": "2026-11-02T02:57:53Z",
+  "note": "pack 0.3.3",
   "launcher": {
-    "version": "1.1.2",
-    "url": "https://github.com/gabereels1/brothers-pack/releases/download/launcher-1.1.2/BrothersPack.exe",
-    "sha256": "7aee4886af3fa9b5a2d587819cae338aa5a19f8b5e69a3dc10c69a48389c519d",
+    "version": "1.1.3",
+    "url": "https://github.com/gabereels1/brothers-pack/releases/download/launcher-1.1.3/BrothersPack.exe",
+    "sha256": "4ddec1f6cdd55820eed795501d6afe60fa8e14e250c8403b6da26a8758c4f1a8",
     "size": 8341504
   },
   "prism": {
@@ -47,6 +47,12 @@
         "size": 3208
       },
       {
+        "path": "config/iris.properties",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/config/iris.properties",
+        "sha256": "6915a998ad7b82ac4a8001f31c347eb63989e85266628dad1db86d4019918331",
+        "size": 215
+      },
+      {
         "path": "config/worldedit/worldedit.properties",
         "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/config/worldedit/worldedit.properties",
         "sha256": "7e0b8403d23d8a659f1b0acbd33c7ff558394dc8af7531aef1d54bf73947282d",
@@ -55,8 +61,8 @@
       {
         "path": "index.toml",
         "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/index.toml",
-        "sha256": "998f72979386f16fcb51483e13cbe7a8b57f0030fc66af5013566c76b4f2205d",
-        "size": 2925
+        "sha256": "4ce99420122b863aedb8bfe75a5872c397827ec9afc4d76856dce64e1556abe0",
+        "size": 3926
       },
       {
         "path": "mods/cloth-config.pw.toml",
@@ -81,6 +87,12 @@
         "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/e4mc.pw.toml",
         "sha256": "7a9916d02fd1da89ea50b6d7f45c3d1985eb4d273ebf01e44da6327b9d35cf4b",
         "size": 408
+      },
+      {
+        "path": "mods/effortless-building.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/effortless-building.pw.toml",
+        "sha256": "bac61b82d1a46fcff1adf3684b17c242438c58359e2b58e44d4d73eeb5287790",
+        "size": 441
       },
       {
         "path": "mods/entityculling.pw.toml",
@@ -111,6 +123,12 @@
         "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/immediatelyfast.pw.toml",
         "sha256": "a7f6a1543f41198911a8b1e5e059fa0c8003365ebd6c2314e2dfa0806aff300a",
         "size": 441
+      },
+      {
+        "path": "mods/iris.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/mods/iris.pw.toml",
+        "sha256": "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131",
+        "size": 420
       },
       {
         "path": "mods/lithium.pw.toml",
@@ -181,8 +199,32 @@
       {
         "path": "pack.toml",
         "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/pack.toml",
-        "sha256": "d4ca173c10c904878cd837d5dcadd41c716babaa5a2e819427bae0e6fe733183",
+        "sha256": "feec8af6e1ce419612413fba84926d9d5c1026a15a2b7cb2ef2bbd3a2d46b831",
         "size": 262
+      },
+      {
+        "path": "shaderpacks/MakeUp-UltraFast-9.5g.zip.txt",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/shaderpacks/MakeUp-UltraFast-9.5g.zip.txt",
+        "sha256": "f077be148f5c19616287f5b3fcbe6f00c9fc90205a87ac6510690af0cdf7be34",
+        "size": 218
+      },
+      {
+        "path": "shaderpacks/complementary-reimagined.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/shaderpacks/complementary-reimagined.pw.toml",
+        "sha256": "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0",
+        "size": 450
+      },
+      {
+        "path": "shaderpacks/makeup-ultra-fast-shaders.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/shaderpacks/makeup-ultra-fast-shaders.pw.toml",
+        "sha256": "992fb67acaae4657efbe62d17dd405b5f05f95d63b63eaa902a09010991bff99",
+        "size": 417
+      },
+      {
+        "path": "shaderpacks/vanilla-plus-shader.pw.toml",
+        "url": "https://raw.githubusercontent.com/gabereels1/brothers-pack/main/pack/shaderpacks/vanilla-plus-shader.pw.toml",
+        "sha256": "6a55aacf66c97024c0ca9321bd0c6319ab080945afdfcae08f42a3f513bed8da",
+        "size": 407
       }
     ]
   },

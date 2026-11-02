@@ -6,6 +6,11 @@ hash = "77d4f45670b41fa009eeb534f9f937ec8fb7f9c9903440cd1401f063e89ec345"
 preserve = true
 
 [[files]]
+file = "config/iris.properties"
+hash = "6915a998ad7b82ac4a8001f31c347eb63989e85266628dad1db86d4019918331"
+preserve = true
+
+[[files]]
 file = "config/worldedit/worldedit.properties"
 hash = "7e0b8403d23d8a659f1b0acbd33c7ff558394dc8af7531aef1d54bf73947282d"
 preserve = true
@@ -30,6 +35,11 @@ hash = "7a9916d02fd1da89ea50b6d7f45c3d1985eb4d273ebf01e44da6327b9d35cf4b"
 metafile = true
 
 [[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "bac61b82d1a46fcff1adf3684b17c242438c58359e2b58e44d4d73eeb5287790"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4a2061e66de340e42c321452326670ff7164b34d76656ffe686ef14c026ccf15"
 metafile = true
@@ -51,6 +61,11 @@ hash = "40c8b7db8cc1a92afe9367fa1800f91f7ab37c27d942097c9a8b70ab97f8ce3e"
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a7f6a1543f41198911a8b1e5e059fa0c8003365ebd6c2314e2dfa0806aff300a"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
 metafile = true
 
 [[files]]
@@ -103,4 +118,23 @@ hash = "150381474b692a4c46823ca30b0c3f81919410d83f2d99b38ac2a16d499f39aa"
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "4c198a2ca7208a54771e3f3864da69be5b49ae6115e0d9cd2d227501897f50d4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-9.5g.zip.txt"
+hash = "f077be148f5c19616287f5b3fcbe6f00c9fc90205a87ac6510690af0cdf7be34"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "992fb67acaae4657efbe62d17dd405b5f05f95d63b63eaa902a09010991bff99"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vanilla-plus-shader.pw.toml"
+hash = "6a55aacf66c97024c0ca9321bd0c6319ab080945afdfcae08f42a3f513bed8da"
 metafile = true
