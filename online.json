@@ -1,8 +1,7 @@
 {
   "schema": 1,
-  "online": true,
-  "address": "reexamine-unwashed.na.e4mc.link",
-  "updated": "2026-11-03T04:08:27Z",
-  "host": "mac",
-  "world": "Gabe & Julia"
+  "online": false,
+  "address": "",
+  "updated": "2026-11-03T05:37:40Z",
+  "host": "mac"
 }
