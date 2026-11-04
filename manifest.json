@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "sequence": 16,
-  "published": "2026-11-02T21:49:49Z",
+  "sequence": 18,
+  "published": "2026-11-04T15:27:34Z",
   "note": "pack 0.4.0",
   "launcher": {
-    "version": "1.1.3",
-    "url": "https://github.com/gabereels1/brothers-pack/releases/download/launcher-1.1.3/BrothersPack.exe",
-    "sha256": "4ddec1f6cdd55820eed795501d6afe60fa8e14e250c8403b6da26a8758c4f1a8",
-    "size": 8341504
+    "version": "1.2.0",
+    "url": "https://github.com/gabereels1/brothers-pack/releases/download/launcher-1.2.0/BrothersPack.exe",
+    "sha256": "5315b57cd8b61f7a15fa2936282249b777c77832c854022ddaad2f7cc35df7fd",
+    "size": 8449536
   },
   "prism": {
     "version": "11.1.1",
@@ -784,5 +784,34 @@
     "size": 58475080,
     "exe": "jdk-25.0.4.1+1-jre/bin/javaw.exe",
     "exeSha256": "bfd1f64ca1c9229797a7ddacd3240a42a5808778d4f1ed35311766af1e6e7bc0"
+  },
+  "horizon": {
+    "version": "eaa7da4-1",
+    "url": "https://github.com/gabereels1/brothers-pack/releases/download/horizon-eaa7da4-1-1d22349e5ecc/horizon-eaa7da4-1-windows-x64.zip",
+    "sha256": "1d22349e5ecc5a8ea70f7e111169c1d873c5e4954acb223c9a65e0b3cb78c174",
+    "size": 35771720,
+    "client": {
+      "path": "horizon-client.exe",
+      "sha256": "6b42b5860e77cb06be623dfce82911d1bf54fe72ac551ee0def6cfaf9c566694"
+    },
+    "prepare": {
+      "path": "horizon-prepare.exe",
+      "sha256": "5405cab2e458ead586515326faeafb5479f2e9d29a4246f7cd62b262e48c2cb8"
+    },
+    "id": "BrothersPackHorizon",
+    "name": "Horizon (vanilla+)",
+    "minecraft": "26.3",
+    "lwjgl": "3.4.3",
+    "session": "msa",
+    "versionJson": {
+      "url": "https://piston-meta.mojang.com/v1/packages/11f1aefe473eefba0af62e3286c33b692807b2eb/26.3.json",
+      "sha256": "fc2263b7b01e273f1beaeb0ab5a740bb7f4e2f2e76a0f7719060979208a845e0",
+      "size": 44992
+    },
+    "serverJar": {
+      "url": "https://piston-data.mojang.com/v1/objects/33680f5f2ac32864d6d7cf5e56a705fdb3e05f4c/server.jar",
+      "sha256": "d052f14d7a173734fba553711e5b570162e2f2a313267ee31a21b975a679be64",
+      "size": 62294556
+    }
   }
 }
