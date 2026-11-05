@@ -1,8 +1,7 @@
 {
   "schema": 1,
-  "online": true,
-  "address": "dynamic-unsecured.na.e4mc.link",
-  "updated": "2026-11-05T21:54:38Z",
-  "host": "mac",
-  "world": "Gabe & Julia"
+  "online": false,
+  "address": "",
+  "updated": "2026-11-05T22:06:36Z",
+  "host": "mac"
 }
