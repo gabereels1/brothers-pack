@@ -1,8 +1,7 @@
 {
   "schema": 1,
-  "online": true,
-  "address": "hangout-vixen.na.e4mc.link",
-  "updated": "2026-11-05T22:07:41Z",
-  "host": "mac",
-  "world": "Gabe & Julia"
+  "online": false,
+  "address": "",
+  "updated": "2026-11-06T02:59:54Z",
+  "host": "mac"
 }
