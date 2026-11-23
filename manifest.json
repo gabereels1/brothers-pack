@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "sequence": 18,
-  "published": "2026-11-04T15:27:34Z",
+  "sequence": 21,
+  "published": "2026-11-23T01:56:12Z",
   "note": "pack 0.4.0",
   "launcher": {
-    "version": "1.2.0",
-    "url": "https://github.com/gabereels1/brothers-pack/releases/download/launcher-1.2.0/BrothersPack.exe",
-    "sha256": "5315b57cd8b61f7a15fa2936282249b777c77832c854022ddaad2f7cc35df7fd",
-    "size": 8449536
+    "version": "1.2.1",
+    "url": "https://github.com/gabereels1/brothers-pack/releases/download/launcher-1.2.1/BrothersPack.exe",
+    "sha256": "d1379a8b31c9e30823b227047c6dfbbd7da5b5122acc44f823e9a750ee43d0f7",
+    "size": 8455680
   },
   "prism": {
     "version": "11.1.1",
