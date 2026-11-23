@@ -1,7 +1,9 @@
 {
   "schema": 1,
-  "online": false,
-  "address": "",
-  "updated": "2026-11-23T02:15:37Z",
-  "host": "mac"
+  "online": true,
+  "address": "passerby-pamphlet.na.e4mc.link",
+  "updated": "2026-11-23T02:50:01Z",
+  "host": "mac",
+  "world": "Test 1",
+  "instance": "ChaosClock"
 }
