@@ -1,9 +1,7 @@
 {
   "schema": 1,
-  "online": true,
-  "address": "harness-darwinism.na.e4mc.link",
-  "updated": "2026-11-23T02:05:27Z",
-  "host": "mac",
-  "world": "New World",
-  "instance": "AdvancedCombatWizardry"
+  "online": false,
+  "address": "",
+  "updated": "2026-11-23T02:15:37Z",
+  "host": "mac"
 }
