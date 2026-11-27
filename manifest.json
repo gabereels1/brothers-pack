@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "sequence": 23,
-  "published": "2026-11-27T16:07:32Z",
+  "sequence": 25,
+  "published": "2026-11-27T23:04:23Z",
   "note": "pack 0.4.0",
   "launcher": {
-    "version": "1.2.1",
-    "url": "https://github.com/gabereels1/brothers-pack/releases/download/launcher-1.2.1/BrothersPack.exe",
-    "sha256": "d1379a8b31c9e30823b227047c6dfbbd7da5b5122acc44f823e9a750ee43d0f7",
-    "size": 8455680
+    "version": "1.2.2",
+    "url": "https://github.com/gabereels1/brothers-pack/releases/download/launcher-1.2.2/BrothersPack.exe",
+    "sha256": "b2fc01d97cff11f3720772b22087d878b10140a453e5bfcbb9fc484fc13a5595",
+    "size": 8454656
   },
   "prism": {
     "version": "11.1.1",
@@ -812,6 +812,75 @@
       "url": "https://piston-data.mojang.com/v1/objects/33680f5f2ac32864d6d7cf5e56a705fdb3e05f4c/server.jar",
       "sha256": "d052f14d7a173734fba553711e5b570162e2f2a313267ee31a21b975a679be64",
       "size": 62294556
-    }
+    },
+    "notes": [
+      {
+        "update": 1,
+        "date": "2026-11-27",
+        "title": "Townsfolk",
+        "changes": [
+          {
+            "what": "Added 20 new villager jobs, each with its own workstation",
+            "why": ""
+          },
+          {
+            "what": "Villagers now work: woodcutters chop trees, builders fix creeper holes",
+            "why": ""
+          },
+          {
+            "what": "Added the Watchman, who shoots raiders with a crossbow",
+            "why": ""
+          },
+          {
+            "what": "Added the DJ, who sells a random music disc",
+            "why": ""
+          },
+          {
+            "what": "Added Enchanter, Guide, Banker and Gravedigger services with menus",
+            "why": ""
+          },
+          {
+            "what": "Items now go into a Headstone when you die near a Gravedigger",
+            "why": ""
+          },
+          {
+            "what": "Added a trash slot to the inventory",
+            "why": ""
+          },
+          {
+            "what": "Added Quick Stack and Chest Search buttons to the inventory",
+            "why": ""
+          },
+          {
+            "what": "Added a recipe viewer: press R for recipes and U for uses",
+            "why": ""
+          },
+          {
+            "what": "Added Resilience, Education and Volatile enchantments",
+            "why": ""
+          },
+          {
+            "what": "Volatile arrows now explode and leave a glowing trail",
+            "why": ""
+          },
+          {
+            "what": "Wooden trapdoors now craft 12",
+            "why": ""
+          },
+          {
+            "what": "Added a reroll button for villager trades",
+            "why": ""
+          },
+          {
+            "what": "Fixed shulker boxes staying open in multiplayer",
+            "why": ""
+          },
+          {
+            "what": "Removed Herobrine",
+            "why": ""
+          }
+        ]
+      }
+    ]
   }
 }
