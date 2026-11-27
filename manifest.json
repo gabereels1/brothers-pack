@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "sequence": 21,
-  "published": "2026-11-23T01:56:12Z",
+  "sequence": 23,
+  "published": "2026-11-27T16:07:32Z",
   "note": "pack 0.4.0",
   "launcher": {
     "version": "1.2.1",
@@ -786,17 +786,17 @@
     "exeSha256": "bfd1f64ca1c9229797a7ddacd3240a42a5808778d4f1ed35311766af1e6e7bc0"
   },
   "horizon": {
-    "version": "eaa7da4-1",
-    "url": "https://github.com/gabereels1/brothers-pack/releases/download/horizon-eaa7da4-1-1d22349e5ecc/horizon-eaa7da4-1-windows-x64.zip",
-    "sha256": "1d22349e5ecc5a8ea70f7e111169c1d873c5e4954acb223c9a65e0b3cb78c174",
-    "size": 35771720,
+    "version": "2141e3a-1",
+    "url": "https://github.com/gabereels1/brothers-pack/releases/download/horizon-2141e3a-1-53f2c0f44802/horizon-2141e3a-1-windows-x64.zip",
+    "sha256": "53f2c0f44802abb7de04df3eccbb61040e0a36c536cfca983e3b20a163146b51",
+    "size": 36264917,
     "client": {
       "path": "horizon-client.exe",
-      "sha256": "6b42b5860e77cb06be623dfce82911d1bf54fe72ac551ee0def6cfaf9c566694"
+      "sha256": "722c8d7117bf10d3b884ec6bc24fcc83e062d6f9eb64e7f13bf4d19581982dec"
     },
     "prepare": {
       "path": "horizon-prepare.exe",
-      "sha256": "5405cab2e458ead586515326faeafb5479f2e9d29a4246f7cd62b262e48c2cb8"
+      "sha256": "09bb753ba342c719e79efb850c4e508724e48f80cc56be780581cdcdef5e66bf"
     },
     "id": "BrothersPackHorizon",
     "name": "Horizon (vanilla+)",
